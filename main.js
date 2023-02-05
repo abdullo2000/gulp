@@ -4,3 +4,5 @@ function logInfo(name, age, gender) {
 }
 
 document.body.innerHTML = "<pre>" + logInfo("Xabijon", 19, "erkak") + "</pre>";
+
+true ? console.log('true') : console.log('false');
